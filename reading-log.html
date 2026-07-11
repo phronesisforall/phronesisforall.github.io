@@ -1,0 +1,18 @@
+---
+layout: default
+title: Reading Log
+---
+<div class="glass-card">
+  <h1>Reading Log</h1>
+  <p>A collection of my thoughts on the books, articles, and papers I read.</p>
+</div>
+
+{% for post in site.posts %}
+  <a href="{{ post.url | relative_url }}" style="text-decoration: none; display: block;">
+    <div class="glass-card interactive">
+      <h2>{{ post.title }}</h2>
+      <p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
+      <p style="color: #e0d8f0;">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+    </div>
+  </a>
+{% endfor %}
