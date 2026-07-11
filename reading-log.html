@@ -7,7 +7,8 @@ title: Reading Log
   <p>A collection of my thoughts on the books, articles, and papers I read.</p>
 </div>
 
-{% for post in site.posts %}
+<!-- Updated loop: Now fetches ONLY files categorized as "reading" -->
+{% for post in site.categories.reading %}
   <a href="{{ post.url | relative_url }}" style="text-decoration: none; display: block;">
     <div class="glass-card interactive">
       <h2>{{ post.title }}</h2>
