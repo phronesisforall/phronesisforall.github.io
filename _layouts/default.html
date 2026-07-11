@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="parallax-bg"></div>
+  <div class="blur-blob blob-1"></div>
+  <div class="blur-blob blob-2"></div>
+  
+  <nav class="glass-nav">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/reading-log' | relative_url }}">Reading Log</a>
+  </nav>
+  
+  <main class="content">
+    {{ content }}
+  </main>
+</body>
+</html>
