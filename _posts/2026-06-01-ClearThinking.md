@@ -3,6 +3,12 @@ layout: post
 title: "Clear Thinking - Shane Parrish"
 category: reading
 ---
+
+This is one of the best books I've read yet. A very well written book from the founder of Farnam Street Media Inc. (fs.blog) - Shane Parrish.
+It is a densely-packed treasure trove of wisdom. One read may not be enough!
+
+---
+
 # Chapter 1
 
 ## 1.1
@@ -39,6 +45,7 @@ category: reading
 - You unconsciously adopt the habits of the people you spend time with
 - The people with the best defaults are typically the people with the best environment
 
+---
 
 # Chapter 2
 
@@ -75,6 +82,7 @@ category: reading
 - Exemplars - unless you don't have a ruler, you can't straighten what is crooked
 - ***Make your own personal board of directors.***
 
+---
 
 # Chapter 3
 
@@ -96,6 +104,7 @@ category: reading
 - Handling mistakes: (i) Accept responsibility, (ii) Learn from the mistake, (iii) Commit to doing better, and (iV) Repair the damage as best you can
 - What you tell yourself has the power to anchor you to the past or to move you forward
 
+---
 
 # Chapter 4
 
@@ -127,6 +136,7 @@ category: reading
 - Bullets before cannonballs
 - Live with a devision before announcing it - examine your thinking/logic
 
+---
 
 # Chapter 5
 
